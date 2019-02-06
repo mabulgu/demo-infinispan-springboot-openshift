@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<settings>
+	<proxies>
+	<proxy>
+		<id>1</id>
+		<active>true</active>
+		<protocol>http</protocol>
+		<username>***\integrationhpoo001</username>
+		<password>AJ8HbAxqCEQ5rUjV</password>
+		<host>172.25.34.36</host>
+		<port>8083</port>
+		<nonProxyHosts>local.net|some.host.com</nonProxyHosts>
+	</proxy>
+	</proxies>
+</settings>
